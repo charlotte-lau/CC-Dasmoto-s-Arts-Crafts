@@ -1,0 +1,39 @@
+header{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    margin: 67px auto;
+}
+
+header .title {
+    background-image: url('../img/pattern.jpeg');
+    /* background-color: aqua; */
+}
+
+.subtitle {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin: 26px auto;
+}
+
+.subtitle.brushes {
+    background-color: mediumspringgreen;
+}
+
+.subtitle.frames {
+    background-color: lightcoral;
+}
+
+.subtitle.paint {
+    background-color: skyblue;
+}
+
+.content span {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
